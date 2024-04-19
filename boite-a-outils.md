@@ -1,24 +1,21 @@
 # Boite à outils du développeur web et mobile débutant
 
+## Sommaire
 
-**Bac à sable code **- outils permettant de voir en direct l'application de nouvelles lignes de de code :
 
-Code pen : https://codepen.io/pen/
 
-**Outils visuel:**
+### #1 - "Bac à sable" _ Outils permettant de voir l'application de nouvelles lignes de code en direct
+1. Code pen : https://codepen.io/pen/
 
-****
 
-<u>Color pickers</u> - sélection des couleurs d'un site web : faire usage d'un "color picker"
+### Outils visuels
 
-Outil colors.co : https://coolors.co/
+**Color pickers** _ sélection des couleurs d'un site web 
 
-Outil W3 School : [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+1. Outil colors.co : https://coolors.co/
+2. Outil W3 School : https://www.w3schools.com/colors/colors_picker.asp
 
-Outil mozilla : https://developer.mozilla.org/fr/Docs/Web/CSS/color_value
+**Gradients**
 
-<u>Gradients </u>:
-
-Visualiser des gradients : UiGradients : [https://uigradients.com/](https://uigradients.com/)
-
-Créer ses propres gradients : https://cssgradient.io/
+1.UiGradients (visualiser des gradients) : https://uigradients.com/
+2. CSSGradient (créer ses propres gradients) : https://cssgradient.io/
