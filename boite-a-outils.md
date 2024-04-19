@@ -17,5 +17,5 @@
 
 **Gradients**
 
-1.UiGradients (visualiser des gradients) : https://uigradients.com/
+1. UiGradients (visualiser des gradients) : https://uigradients.com/
 2. CSSGradient (créer ses propres gradients) : https://cssgradient.io/
