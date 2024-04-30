@@ -19,3 +19,7 @@
 
 1. UiGradients (visualiser des gradients) : https://uigradients.com/
 2. CSSGradient (créer ses propres gradients) : https://cssgradient.io/
+
+**Ombres**
+
+1. Smooth Shadow (visualiser les ombres) : https://shadows.brumm.af/
