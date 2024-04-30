@@ -8,7 +8,7 @@
 1. Code pen : https://codepen.io/pen/
 
 
-### Outils visuels
+### #2 Outils visuels
 
 **Color pickers** _ sélection des couleurs d'un site web 
 
@@ -23,3 +23,7 @@
 **Ombres**
 
 1. Smooth Shadow (visualiser les ombres) : https://shadows.brumm.af/
+2. CSS Scan (visualiser des exemples d'ombres - fonctionne pour des boutons, les "checkbox") : https://getcssscan.com/css-box-shadow-examples
+
+
+
